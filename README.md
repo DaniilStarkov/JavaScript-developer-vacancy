@@ -25,6 +25,6 @@ JavaScript developer vacancy (Moscow, $5000)
 * Современное оборудование, любая конфигурация на выбор, заказ технической литературы
 
 Контакты:
-E-mail: ds@joom.it
-Mobile: +7 915 189 66 41
-Skype: daniil.starkov
+* E-mail: ds@joom.it
+* Mobile: +7 915 189 66 41
+* Skype: daniil.starkov
